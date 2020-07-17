@@ -4,7 +4,7 @@ function App(props){
   return (
     <div>
       <h1>Welcome to the sports game starter</h1>
-      This file represents the code after completing the setup step in the lab instructions
+      This file represents the code after completing the setup steps in the instructions
     </div>
   )
 }
