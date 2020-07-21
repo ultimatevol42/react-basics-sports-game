@@ -17,8 +17,25 @@
     <script crossorigin src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 
     <!-- include our JS+JSX for the React Appliccation -->
-    <script type="text/babel">
-    
-    </script>
+<script type="text/babel">
+
+// An App component under which all other components will be added
+function App(props){
+  return (
+    <div>
+      <h1>Welcome to the Sports Game starter!</h1>
+      <em>This file represents the way your code should look after completing the <strong>Setup</strong steps in the instructions.</em>
+    </div>
+  )
+}
+
+
+
+// Render the App
+ReactDOM.render(
+  <App />,
+  document.getElementById('root')
+)
+</script>
 </body>
 </html>
