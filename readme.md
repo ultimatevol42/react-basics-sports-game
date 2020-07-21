@@ -1,3 +1,3 @@
-# React Basics Assessment
+# React Basics: Sports Game
 
-See canvas for details
+See My.Kenzie for instructions.
